@@ -33,8 +33,8 @@ Completed user stories:
 
 Other Additional goodies :
 
-*  Allow user to post Tweet offline tweet.
-*  Post Offline Tweet  when network is available and shows notification to User.
+*  Allow user to post Tweet when network is not available (offline) tweet.
+*  App posts offline Tweet  when network is available and shows notification to User.
 *  Reply to multiple handles: App parse tweet content and find all handles from tweet and making sure no duplicate handles in reply.
 *  Embeded view all any kind of url: App shows first url in full webView allowing it to show any url not just images.
 *  App does not make extra network call on device rotations (orientation change) instead it loads tweets from local db.
@@ -58,5 +58,7 @@ Third Party Utilities/source used for building this app:
 
 Know issue with Fling/Fast Scroll with PullToRefreshListView:
 https://github.com/erikwt/PullToRefresh-ListView/issues/42 
+
 #### Video walkthrough of all user stories:
-Please see [video](http://vimeo.com/98584284)
+## In Video I explicitly kill and restart App to show that when data is available locally app does not make network call.
+Please see [video]()
