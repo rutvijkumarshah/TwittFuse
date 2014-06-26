@@ -60,5 +60,5 @@ Know issue with Fling/Fast Scroll with PullToRefreshListView:
 https://github.com/erikwt/PullToRefresh-ListView/issues/42 
 
 #### Video walkthrough of all user stories:
-## In Video I explicitly kill and restart App to show that when data is available locally app does not make network call.
-Please see [video]()
+* In Video I explicitly kill and restart App to show that when data is available locally app does not make network call.
+* Please see [video]()
